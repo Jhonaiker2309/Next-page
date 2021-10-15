@@ -1,0 +1,21 @@
+.wrapper{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 1rem;
+  width: 1000px;
+  padding: 0 40px
+}
+
+.arrows{
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.arrow{
+  margin-right: 1rem;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  box-shadow: 0px 10px 30px #99999933;
+  display: inline-block;
+}

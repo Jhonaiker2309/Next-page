@@ -1,0 +1,44 @@
+.navbar{
+  height:151px;
+  display: flex
+}
+
+.logo{
+  
+  top: 2.5%;
+  left: 3%;
+  
+}
+
+.linksContainer{
+  display:flex;
+  justify-content:space-between;
+  left: 10%;
+  top: 44px;
+}
+
+.linksContainer li{
+  list-style-type: none;
+  margin-right: 1rem;
+}
+
+
+.input{
+  top: 41px;
+  left: 737px;
+  width: 226px;
+  height: 40px;
+  border: 1px solid #C6BAF8;
+  border-radius: 4px;
+}
+
+.button{
+  top: 37px;
+  left: 1005px;
+  width: 169px;
+  height: 58px;
+  background: transparent linear-gradient(248deg, #1B92C8 0%, #2C3636 100%) 0% 0% no-repeat padding-box;
+  color: white;
+  border: 0;
+  border-radius: 5%
+}

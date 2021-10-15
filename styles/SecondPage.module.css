@@ -1,0 +1,12 @@
+.wrapper{  
+  display: grid;
+  grid-template-columns: repeat(2, 1fr)
+}
+
+.buttonKnow{
+  width: 182px;
+  height: 62px;
+  border: 1px solid #185F7F;
+  border-radius: 12%;
+  background-color: white;
+}

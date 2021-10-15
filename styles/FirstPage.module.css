@@ -1,0 +1,23 @@
+.firstPage{
+  position: relative;
+  background: url("../Shokworks/Group\ 2258.png");
+  height: 765px;
+  padding-left: 30%;
+  
+}
+
+.buttonWork{
+  width: 182px;
+  height: 62px;
+  background: transparent linear-gradient(248deg, #1B92C8 0%, #2C3636 100%) 0% 0% no-repeat padding-box;
+  border: 0;
+  border-radius: 5%;
+}
+
+.buttonKnow{
+  width: 182px;
+  height: 62px;
+  border: 1px solid #185F7F;
+  border-radius: 12%;
+  background-color: white;
+}

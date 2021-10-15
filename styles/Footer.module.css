@@ -1,0 +1,19 @@
+.footer{
+background: transparent linear-gradient(4deg, #FFFFFF 0%, #DFF0FF 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+height: 300px
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr)
+}
+
+.listContainer li{
+  list-style-type: none
+}
+
+.image{
+  color: red;
+  background: blue
+}
